@@ -1,6 +1,5 @@
 import pytest
 
-# не первые 2
 class TestMainPage():
     # номер 1
     @pytest.mark.xfail
